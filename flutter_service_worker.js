@@ -3,10 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a92046ae55ad7890472f531083279c9e",
-"assets/AssetManifest.bin.json": "366b93f4c6a3e8b5ff85a8a451815cc3",
-"assets/AssetManifest.json": "6ca54e5a2717dce9498fd6f12ccbccaf",
+const RESOURCES = {"assets/AssetManifest.bin": "516ecea8d3a7672e29702179aaeb7637",
+"assets/AssetManifest.bin.json": "8b389c08dcbae161e8e6477955424c5f",
+"assets/AssetManifest.json": "8db2624083dcaba251a2ba7ae9ecf114",
 "assets/assets/images/photo.png": "958352cd5d234b4b8adb418056c76b1f",
+"assets/assets/images/photo_about.png": "3e8dc3085c1b6c3991b8888896ae0cd5",
+"assets/assets/images/portfolio/bingo_logo.png": "58c95702c7cf2f71b6f3430935ef16aa",
+"assets/assets/images/portfolio/blitz_logo.png": "b11c1c9b7ee71be5c84e2ffa37a28be5",
+"assets/assets/images/portfolio/copal_logo.png": "7a8a5273710cb7c99f94f0c88d7ac923",
+"assets/assets/images/portfolio/rock_logo.png": "b1b618c9aa958d38532db0b335522192",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "0a3b146e8ae5af1313fa7b28bed1316f",
 "assets/NOTICES": "9dbf0e5eaeb09585453d0f65ca4042d0",
@@ -28,9 +33,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a92046ae55ad7890472f531083279c9e
 "icons/Icon-512.png": "0f65a14f4b26de85d32e3900d203b121",
 "icons/Icon-maskable-192.png": "3b190e0b680cdfcf9547da2d7497e57f",
 "icons/Icon-maskable-512.png": "0f65a14f4b26de85d32e3900d203b121",
-"index.html": "064062acb6135057ab02ee3a978e31c7",
-"/": "064062acb6135057ab02ee3a978e31c7",
-"main.dart.js": "066d231c8e654910273c4b52ba0b6a6a",
+"index.html": "78afe3333ec79622000cf62a5b036d85",
+"/": "78afe3333ec79622000cf62a5b036d85",
+"main.dart.js": "670b3ea9bbdb99031d7a5e93d2bd9dbe",
 "manifest.json": "d90eadb9181e9c2bab8550fcd5e37293",
 "version.json": "29a924ca26714011395d145fb5b3d633"};
 // The application shell files that are downloaded before a service worker can
